@@ -4,3 +4,4 @@ from colors import Colors
 
 pygame.init()
 
+background_image = pygame.image.load("unsplash_upscayl.png")
