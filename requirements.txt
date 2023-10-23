@@ -3,3 +3,6 @@ import pygame, sys
 from game import Game
 from colors import Colors
 from tkinter import image_names
+from grid import Grid
+from blocks import *
+import random
