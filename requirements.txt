@@ -1,1 +1,4 @@
 sanic==19.6.0
+import pygame, sys
+from game import Game
+from colors import Colors
