@@ -1,5 +1,6 @@
 sanic==19.6.0
-import pygame, sys
+import pygame
+import sys
 from game import Game
 from colors import Colors
 from tkinter import image_names
