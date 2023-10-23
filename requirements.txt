@@ -1,9 +1,2 @@
 sanic==19.6.0
-import sys
-from game import Game
-from colors import Colors
-from tkinter import image_names
-from grid import Grid
-from blocks import *
-import random
 from http.server import BaseHTTPRequestHandler
