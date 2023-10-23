@@ -1,5 +1,4 @@
 sanic==19.6.0
-!pip install pygame
 import pygame
 import sys
 from game import Game
